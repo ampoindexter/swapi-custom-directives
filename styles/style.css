@@ -2,14 +2,20 @@ html {
   text-align: center;
 }
 
-.header {
-  margin-top: 50px;
-  margin-bottom: 25px;
+body {
+  background-image: url('http://i.imgur.com/WdJLMuJ.jpg');
+  background-color: #777;
+  color: yellow;
+}
+
+h1 {
+  margin-top: 90px;
+  margin-bottom: 45px;
 }
 
 img {
   width: 200px;
-  margin-top: 100px;
+  margin-top: 70px;
 }
 
 select {
